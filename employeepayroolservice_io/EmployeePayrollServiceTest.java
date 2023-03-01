@@ -1,10 +1,10 @@
-package com.bridgelabz.employeepayrollservice;
+package com.bridgelabz.employeepayroolservice_io;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-
+import com.bridgelabz.employeepayroolservice_io.EmployeePayrollService;
 
 public class EmployeePayrollServiceTest {
     @Test
